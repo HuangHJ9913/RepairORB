@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/hmx/LearnVIORB/Examples/ROS/ORB_SLAM2/build/devel/setup.sh
